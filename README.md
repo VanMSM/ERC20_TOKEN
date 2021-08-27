@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/80144026/131086231-b6eab740-0092-4432-
 <img width="1792" alt="Screen Shot 2021-08-26 at 11 03 45 PM" src="https://user-images.githubusercontent.com/80144026/131085079-7cc6c3ca-571a-4423-8cfd-4ef45060bd18.png">
 
 ### Crowdsale Contract and KaseiCoin Contract Compilation Images
+ * Remix Compilation Guide: https://remix-ide.readthedocs.io/en/latest/create_deploy.html
 
 <img width="1284" alt="Screen Shot 2021-08-27 at 12 19 40 AM" src="https://user-images.githubusercontent.com/80144026/131088738-f8412588-0a9d-4e3f-b823-db961a84b58e.png">
 
@@ -39,6 +40,8 @@ https://user-images.githubusercontent.com/80144026/131086231-b6eab740-0092-4432-
 
 
 ### Testing Functionalities of Remix, Ganache and Metamask
+
+ * How to connect Remix, Ganache and Metamask : https://medium.com/@kacharlabhargav21/using-ganache-with-remix-and-metamask-446fe5748ccf
 
 <img width="318" alt="Screen Shot 2021-08-26 at 10 35 39 PM" src="https://user-images.githubusercontent.com/80144026/131086305-cf01ab84-9127-46db-ae80-7c7aa0a74c3a.png">
 
@@ -88,6 +91,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 ## Installation Guide
 
 Clone to your repo and upload to Remix, Solidity.
+
 
 
 ___

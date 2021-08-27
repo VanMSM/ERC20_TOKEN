@@ -11,11 +11,11 @@ Imagine...After waiting for years and passing several tests,I was selected by th
 
 KaseiCoin will be a fungible token that is ERC-20 compliant and will be launched in a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
-## What I am Creating
+## What I Created
 
-I will create a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
+I created a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
-The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KSC, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
+The crowdsale contract I created will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KSC, or KaseiCoin tokens. The contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
 
 ## DEMO

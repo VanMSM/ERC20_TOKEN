@@ -26,9 +26,16 @@ https://user-images.githubusercontent.com/80144026/131086231-b6eab740-0092-4432-
 
 
 
-### Smart Contract creation and deployment in REMIX IDE
+### Smart Contract creation
 
 <img width="1792" alt="Screen Shot 2021-08-26 at 11 03 45 PM" src="https://user-images.githubusercontent.com/80144026/131085079-7cc6c3ca-571a-4423-8cfd-4ef45060bd18.png">
+
+### Crowdsale Contract and KaseiCoin Contract Compilation Images
+
+<img width="1284" alt="Screen Shot 2021-08-27 at 12 19 40 AM" src="https://user-images.githubusercontent.com/80144026/131088738-f8412588-0a9d-4e3f-b823-db961a84b58e.png">
+
+<img width="1284" alt="Screen Shot 2021-08-27 at 12 19 40 AM" src="https://user-images.githubusercontent.com/80144026/131088858-7c098e57-e9ab-4155-8ec1-068be11a0219.png">
+
 
 
 ### Testing Functionalities of Remix, Ganache and Metamask
